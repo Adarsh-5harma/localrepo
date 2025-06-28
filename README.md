@@ -1,1 +1,1 @@
-<!-- this is local repo from init command -->
+# this is local repo using init command
